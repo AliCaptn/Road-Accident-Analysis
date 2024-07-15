@@ -1,1 +1,12 @@
-# Road-Accident-Analysis
+The purpose of this Power BI dashboard is to analyze road accident data and identify patterns and trends that can help improve road safety. Imported the data into Power BI and cleaned it to ensure it was accurate and ready for analysis. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.
+
+﻿I Created eight visualizations to help users understand the data and identify important trends. These visualizations include:
+Accidents By Hour Of Day: This visualization shows the number of accidents that occurred during each hour of the day. This can help identify high-risk times of day when accidents are more likely to occur.
+Accident severity by road type: This visualization shows the severity of accidents by road type, such as highways, urban roads, and rural roads. This can help identify which types of roads are more dangerous and require more attention from policymakers.
+Number of casualties by vehicle type: This visualization shows the number of casualties in accidents by vehicle type, such as cars, trucks, and motorcycles. This can help identify which types of vehicles are involved in the most accidents and may require additional safety measures.
+Accidents by weather conditions: This visualization shows the number of accidents that occurred under different weather conditions, such as rain, snow, or clear skies. This can help identify which weather conditions are most dangerous for drivers and may require additional safety precautions.
+Number of vehicles involved in accidents: This visualization shows the number of vehicles involved in accidents. This can help identify which accidents are most severe and may require more emergency resources.
+Number of accidents by day of the week: This visualization shows the number of accidents that occurred on each day of the week. This can help identify which days are most dangerous for drivers and may require additional safety measures.
+Number of accidents by light conditions: This visualization shows the number of accidents that occurred under different light conditions, such as daylight, dusk, or darkness. This can help identify which light conditions are most dangerous for drivers and may require additional safety precautions.
+Number of accidents by speed limit: This visualization shows the number of accidents that occurred under different speed limits. This can help identify which speed limits are most dangerous for drivers and may require additional safety measures.
+I also used two slicers, one for the month and one for the year, which allow users to filter the data based on specific time periods.
